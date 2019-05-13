@@ -1,0 +1,22 @@
+.jumbotron {
+    background: url("http://www.vergium.com/wp-content/uploads/2016/08/red_bg.jpg");
+    margin-bottom: 0;  
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    text-align:center;
+    font-family: "courier";
+    color: lightslategray;
+}
+p {
+    text-align: center;
+    font-family: "times";
+    color: lightslategrey;
+}
+
+p1, p2, p3 {
+    font-family: "times";
+    color: black;
+}
