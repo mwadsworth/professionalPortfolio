@@ -1,5 +1,5 @@
 .jumbotron {
-    background: url("http://www.vergium.com/wp-content/uploads/2016/08/red_bg.jpg");
+    background: url("https://images.unsplash.com/photo-1428452932365-4e7e1c4b0987?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80");
     margin-bottom: 0;  
     background-repeat: no-repeat;
     background-size: cover;
@@ -16,7 +16,15 @@ p {
     color: lightslategrey;
 }
 
-p1, p2, p3 {
+p1, p2 {
     font-family: "times";
+    color: black;
+}
+.card-body {
+    text-align: center;
+    background-color:slategrey;
+}
+.card-text {
+    text-align: left;
     color: black;
 }
