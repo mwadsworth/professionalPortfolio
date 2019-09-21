@@ -1,5 +1,5 @@
 .jumbotron {
-    background: url("https://images.unsplash.com/photo-1428452932365-4e7e1c4b0987?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80");
+    background: url("https://www.californiaena.org/wp-content/uploads/2016/12/geo-background-primary.jpg");
     margin-bottom: 0;  
     background-repeat: no-repeat;
     background-size: cover;
@@ -8,12 +8,12 @@
 h1 {
     text-align:center;
     font-family: "courier";
-    color: lightslategray;
+    color: black;
 }
 p {
     text-align: center;
     font-family: "times";
-    color: lightslategrey;
+    color: black;
 }
 
 p1, p2 {
@@ -35,4 +35,14 @@ body {
 }
 button {
     margin-left: 10px;
+}
+.container {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-bottom: 10px;
+}
+.card {
+    margin-top: 15px;
+    background-color: darkslateblue;
+    
 }
