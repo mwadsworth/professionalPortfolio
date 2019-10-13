@@ -21,15 +21,16 @@ p1, p2 {
     color: black;
 }
 .card-body {
-    text-align: center;
-    background-color:slategrey;
+    text-align: left;
+    background-color: lightslategray;
+    
 }
 .card-text {
     text-align: left;
     color: black;
 }
 body {
-    background: url("https://images.unsplash.com/photo-1428452932365-4e7e1c4b0987?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80");
+    background: url("https://images.unsplash.com/photo-1523821741446-edb2b68bb7a0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -39,10 +40,17 @@ button {
 .container {
     margin-bottom: 10px;
     margin-top: 10px;
-    border-bottom: 10px;
+    margin-bottom: 10px;
 }
 .card {
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    background-color: #333333;
     margin-top: 15px;
-    background-color: darkslateblue;
+    border-color: darkslateblue;
+    border-width: 5px;
+    
     
 }
