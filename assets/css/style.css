@@ -22,7 +22,7 @@ p1, p2 {
 }
 .card-body {
     text-align: left;
-    background-color: lightslategray;
+    background-color:#dab3ff;
     
 }
 .card-text {
@@ -51,6 +51,9 @@ button {
     margin-top: 15px;
     border-color: darkslateblue;
     border-width: 5px;
-    
-    
+}
+.li {
+    hover: active red;
+      
+
 }
